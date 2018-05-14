@@ -76,9 +76,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ai_xian_feng',
-        'HOST': '47.106.145.176',
+        'HOST': '此处填写IP',
         'USER': 'root',
-        'PASSWORD': 'xl123456',
+        'PASSWORD': '此处填写密码',
         'PORT': '3306'
     }
 }
